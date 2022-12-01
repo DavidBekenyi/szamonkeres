@@ -1,12 +1,17 @@
 #content{
-	
+
 }
 #imageright{
-	
+	float: right;
+    width: 250px;
 }
 #imageleft{
-	
+	float: left;
+    width: 20px;
 }
 .kepszoveg{
 	
+}
+.a:hover{
+    color: red;
 }
